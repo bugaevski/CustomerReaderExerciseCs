@@ -1,0 +1,28 @@
+[
+    {
+        "Email":"amanda@aol.com",
+        "FirstName":"Amanda",
+        "LastName":"Garrison",
+        "PhoneNumber":"413-444-2211",
+        "Address":
+        {
+          "StreetAddress":"13 very Unlucky St.",
+          "City":"Summerville",
+          "State":"GA",
+          "ZipCode":"11111"
+        }
+    },
+    {
+        "Email":"barry@unknown.net",
+        "FirstName":"Barry",
+        "LastName":"Allen",
+        "PhoneNumber":"413-222-9976",
+        "Address":
+        {
+          "StreetAddress":"102 Slow St.",
+          "City":"Slothville",
+          "State":"MA",
+          "ZipCode":"33333"
+        }
+    },
+]

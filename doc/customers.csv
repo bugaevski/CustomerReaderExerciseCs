@@ -1,0 +1,3 @@
+email, firstName, lastName, phoneNumber, streetAddress, city, state, zipCode
+SOMEONE@SOMEWHERE.COM,steve, jones,414-213-9809,123 Cool St.,pittsfield,MA,01201
+testing@gmail.com,Tester,person, 243-455-6342, 22 Something Rd.,Nowhereville,CA,00000

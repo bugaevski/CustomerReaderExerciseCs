@@ -1,0 +1,26 @@
+<Customers>
+    <Customer>
+      <Email>johnny@hotmail.com</Email>
+      <FirstName>john</FirstName>
+      <LastName>Smith</LastName>
+      <PhoneNumber>413-111-2222</PhoneNumber>
+      <Address>
+          <StreetAddress>33 Example Ave.</StreetAddress>
+          <City>Boston</City>
+          <State>ma</State>
+          <ZipCode>02110</ZipCode>
+      </Address>
+    </Customer>
+    <Customer>
+      <Email>alex@yahoo.com</Email>
+      <FirstName>ALEXANDER</FirstName>
+      <LastName>Jones</LastName>
+      <PhoneNumber>413-222-3333</PhoneNumber>
+      <Address>
+          <StreetAddress>56 Rocky Rd.</StreetAddress>
+          <City>Hartford</City>
+          <State>CT</State>
+          <ZipCode>06101</ZipCode>
+      </Address>
+    </Customer>
+</Customers>
